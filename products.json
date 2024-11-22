@@ -1,0 +1,37 @@
+[
+    {
+    "id": 1,
+    "producto": "CHOCOLATE",
+    "descripcion": "Chocolate en leche.",
+    "imagen": "CHOCOLATE.jpg",
+    "precio": 2000
+    },
+    {
+    "id": 2,
+    "producto": "AREPAS CON QUESO",
+    "descripcion": "Arepas con queso asadas a la parrilla.",
+    "imagen": "arepas.jpg",
+    "precio": 2000
+    },
+    {
+        "id": 3,
+        "producto": "EMPANADAS",
+        "descripcion": "Empanadas de pipian y guiso acompañado de ajì casero.",
+        "imagen": "empanadas.jpg",
+        "precio": 500
+        },
+     {
+            "id": 4,
+            "producto": "CAFÈ ",
+            "descripcion": "Cafè negro y en leche.",
+            "imagen": "cafè.jpg",
+            "precio": 2500
+         },
+         {
+            "id": 4,
+            "producto": "HOJALDRAS",
+            "descripcion": "Amasadas con el toque secreto de la  casa.",
+            "imagen": "hojaldras.jpg",
+            "precio": 1000
+         }      
+   ]
